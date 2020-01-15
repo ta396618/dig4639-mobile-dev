@@ -9,3 +9,5 @@ function scopeDemo() {
         var x = 0;
     }
 }
+
+//
