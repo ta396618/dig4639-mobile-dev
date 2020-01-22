@@ -11,3 +11,8 @@ I am seeking a position for Digital media.
 1. Item 1 [Google](http://www.google.com)
 1. Item 2
 1. Item 3
+This should be replaced.
+
+##Conflicts
+
+This section represents cod on the server that isn't on the local repository.
