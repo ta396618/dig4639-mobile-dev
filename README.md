@@ -29,6 +29,6 @@ This should be replaced.
 1.  Item 3
     This is the change.
 
-## Conflictsthes
+## Conflictsthes-a
 
 This section represents code on the server that isn't on the local repository.
