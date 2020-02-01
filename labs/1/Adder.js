@@ -10,6 +10,6 @@ class Adder {
     console.log(
       `The sum of ${this.props.a} and ${this.props.b} is ${this.sum()}`
     );
-  }
+  } //
 }
 module.exports = Adder;
