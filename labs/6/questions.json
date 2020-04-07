@@ -1,0 +1,64 @@
+[
+  {
+    "question": "1. I dislike being the center of attention.",
+    "answers": [
+      { "text": "NO", "correct": false },
+      {
+        "text": "YES",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "2. I don't know why I do some of the things I do.",
+    "answers": [
+      {
+        "text": "NO",
+        "correct": false
+      },
+      {
+        "text": "YES",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "3. I feel others' emotions.",
+    "answers": [
+      {
+        "text": "NO",
+        "correct": false
+      },
+      {
+        "text": "YES",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "4. I feel sympathy for those who are worse off than myself.",
+    "answers": [
+      {
+        "text": "YES",
+        "correct": true
+      },
+      {
+        "text": "NO",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "5. I feel that I'm unable to deal with things.",
+    "answers": [
+      {
+        "text": "YES",
+        "correct": true
+      },
+      {
+        "text": "NO",
+        "correct": true
+      }
+    ]
+  }
+]
