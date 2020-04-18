@@ -1,0 +1,16 @@
+.add {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 120px;
+  margin: 2px;
+}
+
+.form {
+  text-align: center;
+  margin: 10px;
+}
+
+.textbox {
+  margin: 2px;
+  width: 200px;
+  font-family: "Times New Roman", Times, serif;
+}
